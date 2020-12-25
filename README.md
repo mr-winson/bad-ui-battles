@@ -12,5 +12,5 @@
 #### login v1
 
 - It asks for id card, then thinks you are a robot and asks you to locate a pixel tracker.
-- [source](/login-v1)
+- [source](https://github.com/mr-winson/bad-ui-battles/tree/master/login-v1)
 - [live demo](https://ui.alecw.net/login-v1)
