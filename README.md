@@ -1,5 +1,5 @@
 # bad-ui-battles
-<a href="https://reddit.com/r/baduibattles" target="_blank">r/baduibattles</a>
+<a href="https://reddit.com/r/baduibattles" target="_blank">r/baduibattles</a> | <a href="https://ui.alecw.net" target="_blank">ui.alecw.net</a>
 
 ## table of contents
 * <a href="#monthly-challenges">monthly challenges</a>
